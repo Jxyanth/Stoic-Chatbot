@@ -29,3 +29,11 @@ A Retrieval-Augmented Generation (RAG) chatbot designed to provide philosophical
    ```bash
    git clone [https://github.com/Jxyanth/Stoic-Chatbot.git](https://github.com/Jxyanth/Stoic-Chatbot.git)
    cd Stoic-Chatbot
+2. **Install requirments**:
+   pip install -r requirements.txt
+
+3.**Insert your API Key here**:
+   OPENROUTER_API_KEY=your_key_here
+
+4.**Run**:
+   streamlit run app.py
